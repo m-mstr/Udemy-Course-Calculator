@@ -2,4 +2,17 @@ This is an assignment done through a C# Udemy Course (https://www.udemy.com/shar
 
 The assignment was to create a simple console calculator that with providing two integers and provided input for selected operation, it would output the result. 
 
-Assignment details were as follows: https://docs.google.com/document/d/1shs_Qxgfxz69_Iyb8XC0rwQe-csrUZEWmty12yddX8Q/edit
+Assignment details were as follows:
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/m-mstr/Udemy-Course-Calculator/assets/128099870/d2d7a717-d146-4dbb-980c-fe79984f4319)
+
